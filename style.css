@@ -92,7 +92,7 @@ section {
 }
 
 .home-img img {
-    width: 35vw;
+    width: 40vw;
     padding: 2rem;
     animation: floatImage 4s ease-in-out infinite ;
 } 
@@ -315,7 +315,7 @@ span  {
     align-items: center;
     justify-content: center;
     padding: .8rem;
-    background-color: var(--bg-color);
+    background-color: #000F24;
     border-radius: .8rem;
     transition: .5s ease;
   }
@@ -356,7 +356,7 @@ span  {
       left: 0;
       width: 100%;
       padding: 1rem 3%;
-      background: var(--bg-color);
+      background: #000F24;
       border-top: 1rem solid rgba(0, 0, 0, 0.2);
       box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.2);
       align-items: center;
