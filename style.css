@@ -27,7 +27,7 @@ html {
 body {
     color: var(--text-color);
     min-height: 100vh;
-    background-image: url(assets/f.png);
+    background-image: url(assets/fundo.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
