@@ -121,6 +121,7 @@ span  {
 
 .home-content p {
     font-family: Inter;
+    text-align: justify;
     font-size: 1.6rem;
     margin: 2rem  0 3rem;
 }
@@ -187,6 +188,7 @@ span  {
 
 .about-content p {
   font-family: Inter;
+  text-align: justify;
   font-size: 1.6rem;
   margin: 2rem  0 3rem;
 }
@@ -200,6 +202,13 @@ span  {
   font-family: Inter;
   font-size: 1.6rem;
   padding: 5px;
+}
+
+.heading p {
+  font-family: Inter;
+  text-align: justify;
+  font-size: 1.6rem;
+  margin: 2rem  0 3rem;
 }
 
 .hero-imagens-container {
